@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "Nurettin KAYNAR",
+      "department": "ARGE",
+      "salary": 5000,
+      "id": 1
+    },
+    {
+      "name": "Gamze TARLI",
+      "department": "İ.K.",
+      "salary": 2500,
+      "id": 2
+    }
+  ]
+}
